@@ -40,7 +40,7 @@ function updateCounts () {
     invisible: 0
   }
   
-  // WRITE CODE HERE TO COUNT BLUE, GREEN, AND INVISIBLE DOTSgit 
+  // WRITE CODE HERE TO COUNT BLUE, GREEN, AND INVISIBLE DOTS 
 totals.blue = document.getElementsByClassName("blue").length;
 totals.green = document.getElementsByClassName("green").length;
 totals.invisible = document.getElementsByClassName("invisible").length;
